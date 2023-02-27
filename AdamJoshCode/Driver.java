@@ -1,4 +1,4 @@
-// Student: Adam Fitzpatrick
+// Students: Adam Fitzpatrick & Joshua Murphy
 // Date: 15/03/23
 // Purpose: A driver for the program
 
